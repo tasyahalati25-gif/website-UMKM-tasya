@@ -1,36 +1,15 @@
-# 🛍️ Website Resmi UMKM Tasya
+# Website UMKM - Tasya
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/tasyahalati25-gif/website-UMKM-tasya?color=brightgreen)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/tasyahalati25-gif/website-UMKM-tasya?color=blue)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+Repository ini berisi source code untuk website resmi promosi produk UMKM Tasya.
 
-Selamat datang di repository resmi **Website UMKM Tasya**. Website ini dirancang untuk mempromosikan dan menampilkan katalog produk unggulan UMKM secara online.
+## Deskripsi
+Website ini dibuat sebagai bagian dari tugas perkuliahan untuk mengimplementasikan version control menggunakan **Git dan GitHub**, meliputi pembuatan branch fitur, pengelolaan commit, serta penggabungan melalui Pull Request.
 
----
+## Anggota Kelompok
+| No | Nama Lengkap | NIM |
+| 1 | Natasya Hala | UG54B25030 |
 
-## 📌 Deskripsi Proyek
-Proyek ini dibuat untuk memenuhi tugas mata kuliah dengan mengimplementasikan alur kerja **Git & GitHub** modern, meliputi:
-- Pengelolaan versi (*Version Control*) menggunakan Git.
-- Pembuatan branch fitur (`fitur-produk`).
-- Penggabungan kode melalui *Pull Request* (PR) dan *Merge*.
-
----
-
-## 👥 Anggota Kelompok
-
-| No | Nama Lengkap | NIM | 
-
-| 1 | Natasya Hala | UG54B25030 | 
-
----
-
-## 🚀 Fitur Website
-- 🏠 **Halaman Utama**: Ucapan selamat datang dan identitas UMKM.
-- 📦 **Katalog Produk**: Menampilkan daftar produk unggulan.
-- 📞 **Kontak & Informasi**: Memudahkan pelanggan menghubungi penjual.
-
----
-
-## 🛠️ Teknologi yang Digunakan
-- **HTML5** untuk struktur halaman web.
-- **Git & GitHub** untuk manajemen repository.
+## Fitur Utama
+- Halaman Utama Website UMKM
+- Katalog Produk
+- Informasi Kontak
