@@ -19,8 +19,8 @@ Proyek ini dibuat untuk memenuhi tugas mata kuliah dengan mengimplementasikan al
 ## 👥 Anggota Kelompok
 
 | No | Nama Lengkap | NIM | 
-|:--:|:---|:--:|:---|
-| 1 | **Natasya Hala** | UG54B25030 | 
+
+| 1 | Natasya Hala | UG54B25030 | 
 
 ---
 
