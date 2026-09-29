@@ -7,7 +7,8 @@ Website ini dibuat sebagai bagian dari tugas perkuliahan untuk mengimplementasik
 
 ## Anggota Kelompok
 | No | Nama Lengkap | NIM |
-| 1 | Natasya Hala | UG54B25030 |
+
+| 1 | Natasya Hala | UG54B25020 |
 
 ## Fitur Utama
 - Halaman Utama Website UMKM
